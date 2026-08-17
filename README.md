@@ -39,11 +39,11 @@ O relatório apresenta análises relacionadas a:
 
 ### Página 1 — Visão geral
 
-![Página 1 do relatório](pagina-1.png)
+![Pagina 1 do relatório](pagina-1.png)
 
 ### Página 2 — Análise detalhada
 
-![Página 2 do relatório](pagina-2.png)
+![Pagina 2 do relatório](pagina-2.png)
 
 ## 📁 Arquivo do Power BI
 
